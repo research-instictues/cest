@@ -24,6 +24,7 @@ We are designing a new way for the window manager to work. We are trying to find
 
 - [x] UEFI environment
 - [x] Understand how to exit boot services
+- [ ] PCI
 - [ ] AHCI driver
 - [ ] FAT32 filesystem
 - [ ] USB storage driver
