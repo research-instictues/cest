@@ -22,8 +22,8 @@ We are designing a new way for the window manager to work. We are trying to find
 
 ## Our goals
 
-- [x] UEFI assembly environment
-- [ ] Understand how to exit boot services
+- [x] UEFI environment
+- [x] Understand how to exit boot services
 - [ ] AHCI driver
 - [ ] FAT32 filesystem
 - [ ] USB storage driver
